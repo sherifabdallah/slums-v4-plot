@@ -1,7 +1,7 @@
 library("plotly")
 library("readr")
 
-slums_v4 <- read_csv("Hazem/slums_v4/slums_v4.csv")
+slums_v4 <- read_csv("~/slums_v4/slums_v4.csv")
 
 CNT <- slums_v4[[3]]
 POP <- slums_v4[[9]]
