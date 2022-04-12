@@ -1,3 +1,6 @@
+install.packages("plotly")
+install.packages("readr")
+
 library("plotly")
 library("readr")
 
