@@ -2,7 +2,7 @@
 Ploted Data of Populations and GPW and hrsl18 and the year of the event.
 
 ## Table of Content
-- [Geekshub](#geekshub)
+- [Slum V4 Plot](#geekshub)
   * [Tools](#tools)
   * [How to run](#how-to-run)
   * [URL](#how-to-run)
